@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/usr/local/Cellar/go/1.9.1/libexec/src/container/list'
+let g:netrw_dirhist_2='/Users/yangchunjun/.vim'
+let g:netrw_dirhist_3='/Users/yangchunjun/.vim/bundle/Vundle.vim'
