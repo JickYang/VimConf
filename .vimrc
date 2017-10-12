@@ -53,7 +53,8 @@ call vundle#begin()
 Plugin 'fatih/vim-go'
 Plugin 'SirVer/ultisnips'
 Plugin 'scrooloose/nerdtree'
-
+Plugin 'Valloric/YouCompleteMe'
+Plugin 'Raimondi/delimitMate'
 " let Vundle manage Vundle, required
 Plugin 'gmarik/Vundle.vim'
 
